@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I am Abiodun Abiodun 👋
+### Hi there, I am Abiodun 👋
 [![Linkedin Badge](https://img.shields.io/badge/-abiodungbadamosi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiodungbadamosi/)](https://www.linkedin.com/in/abiodungbadamosi/)
 [![Gmail Badge](https://img.shields.io/badge/-theabiodungbadamosi2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theabiodungbadamosi2018@gmail.com)](mailto:theabiodungbadamosi2018@gmail.com) 
 
