@@ -15,6 +15,8 @@
 - Machine Learning 🧐
 - Data Science 😬
 
+[![Abiodun's github stats](https://github-readme-stats.vercel.app/api?username=AOGbadamosi2018&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=AOGbadamosi2018&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
